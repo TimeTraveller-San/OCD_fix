@@ -1,0 +1,59 @@
+body {
+	background-image: url("https://archive-media-0.nyafuu.org/w/image/1535/18/1535180899676.png");
+	background-image: url("https://i.imgur.com/OVAyhLz.jpg");
+	background-image: url("https://i.imgur.com/F72XhoC.jpg");
+	background-image: url("https://i.imgur.com/67vkJJr.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body > #header {
+	background: rgba(255, 255, 255, 0.7);
+}
+.tab-content {
+	background: rgba(255, 255, 255, 0.7);
+}
+.tabbable > .tabs {
+	background: rgba(255, 255, 255, 0.7);
+}
+#tabs {
+	background: rgba(255, 255, 255, 0.7);
+}
+#notebook-container {
+	background: rgba(255, 255, 255, 0.8);
+}
+.notebook_app > #header {
+	background: rgba(255, 255, 255, 0.8);
+}
+.btn-default {
+	background: rgba(255, 255, 255, 0);
+	border-color: rgba(255, 255, 255, 0);
+}
+.form-control {
+	background: rgba(255, 255, 255, 0);
+	border-color: rgba(255, 255, 255, 0);
+	box-shadow: none;
+}
+.navbar-default {
+	background-color: rgba(255, 255, 255, 0.3) !important;
+	border-color: rgba(255, 255, 255, 0) !important;
+}
+#menubar .navbar-collapse {
+	background-color: rgba(255, 255, 255, 0) !important;
+	border-color: rgba(255, 255, 255, 0) !important;
+	box-shadow: none !important;
+}
+body > #header .header-bar {
+	width: 0%;
+}
+span#login_widget > .button:focus,
+#logout:focus,
+#shutdown:focus,
+span#login_widget > .button.focus,
+#logout.focus,
+#shutdown.focus {
+	background: rgba(255, 255, 255, 0);
+	border-color: rgba(255, 255, 255, 0);
+}
+#ipython_notebook {
+	display: block !important;
+}
