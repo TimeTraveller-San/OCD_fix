@@ -16,6 +16,7 @@ $(document).ready(function() {
       $(".single-chapter").css("background-color","black");
       $(".chapter-hero").css("background-color","black");
       $(".zoom__image").css("background-color","gray !important");
+       $(document).find("#wnb-bar").hide(); //they added a new permanent green ugly bar at the top saying "subscibe with email to get updates" it's ugly and catchy, its going away
 });
 
 
