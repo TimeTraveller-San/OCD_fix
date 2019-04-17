@@ -1,9 +1,11 @@
 # Social Media Fix
 
-##remove-whatsapp-chats.js
+## remove-whatsapp-chats.js
 - I hate certain whatsapp chats (mostly group chats)
 - I can't leave those groups
 - I can't ignore them
+- I can't block people irl
+- I can block people on the internet
 - I CAN force myself to ignore them
 - I CAN control what I see
 - This scripts removes certain chats from web.whatsapp.com
