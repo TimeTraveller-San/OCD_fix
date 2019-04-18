@@ -1,4 +1,16 @@
 # Social Media Fix
+
+##remove-whatsapp-chats.js
+- I hate certain whatsapp chats (mostly group chats)
+- I can't leave those groups
+- I can't ignore them
+- I CAN force myself to ignore them
+- I CAN control what I see
+- This scripts removes certain chats from web.whatsapp.com
+- Code is self documented and simple, make edits as per your needs
+
+
+## kill-fb-yt-feed-cancer.js
 - I am addicted to checking out facebook again and again
 - I often click on various stuff that appears on my facebook feed
 - I don't like to see "stories" on both facebook and whatsapp, they're clickbaits that I often can't resist
